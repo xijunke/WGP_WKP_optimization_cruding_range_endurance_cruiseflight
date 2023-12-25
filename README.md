@@ -21,15 +21,15 @@
 
 ## GA optimization process and results for 80mg FWMAV
 
-![ConcepDes_FMAV_delta](https://github.com/xijunke/WGP_WKP_optimization_cruding_range_endurance_cruiseflight/blob/main/20160402_optimal_results_for_80mg_FWMAV/20160402-WingM7_1_10variable_group_flight_range-optimal_results.png)
+![GA optimization process and results](https://github.com/xijunke/WGP_WKP_optimization_cruding_range_endurance_cruiseflight/blob/main/20160402_optimal_results_for_80mg_FWMAV/20160402-WingM7_1_10variable_group_flight_range-optimal_results.png)
 
 ## GA optimization process and results for 200mg FWMAV
 
-![ConcepDes_FMAV_delta](https://github.com/xijunke/WGP_WKP_optimization_cruding_range_endurance_cruiseflight/blob/main/20160405_optimal_results_for_200mg_FWMAV/20160405-WingM7_1_10variable_group_flight_range-optimal_result.png)
+![GA optimization process and resultsa](https://github.com/xijunke/WGP_WKP_optimization_cruding_range_endurance_cruiseflight/blob/main/20160405_optimal_results_for_200mg_FWMAV/20160405-WingM7_1_10variable_group_flight_range-optimal_result.png)
 
 ## GA optimization process and results for 4g FWMAV
 
-![ConcepDes_FMAV_delta](https://github.com/xijunke/WGP_WKP_optimization_cruding_range_endurance_cruiseflight/blob/main/20160416_optimal_results_for_4g_FWMAV/20160416-WingM7_1_10variable_group_flight_range-optimal_results_4g.png)
+![GA optimization process and results](https://github.com/xijunke/WGP_WKP_optimization_cruding_range_endurance_cruiseflight/blob/main/20160416_optimal_results_for_4g_FWMAV/20160416-WingM7_1_10variable_group_flight_range-optimal_results_4g.png)
 
 
 
