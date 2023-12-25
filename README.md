@@ -3,7 +3,7 @@
 
 ## 本文件夹的程序改编自WingM6_2_10variable_group_Wang_wingbeatM, 用于研究扑翼概念设计的巡航航程和时间，优化计算翅膀运动学规律和形貌学参数
 ## Ref.to. WingM7_1_10variable_group_flight_range, only noted for this program owner and maintainer.
-"
+```
  0.hybrid_GA_fminsearch_WingM4_4_2由hybrid_GA_fminsearch_WingM4_4_1进化修改而来
 
  1.该文件夹下为10变量GA混合优化之程序—fmincon—搜索算法
@@ -15,8 +15,8 @@
  4.变量约束区间改小——注意数据的上下限修改——直指频率约束f∈[0,300];
 
  5.kenimatics_wing_and_AoA_fruitfly_sim输出(1000*9)矩阵
-"
 
+```
 # Running Genetic Algorithm (GA) optimization process and results for different mass FWMAV
 
 ## GA optimization process and results for 80mg FWMAV
